@@ -20,6 +20,7 @@ const Header = () => {
       <a href="#about">About</a>
       <a href="#portfolio">Projects</a>
       <a href="#footer">Education</a>
+      <a href="#footer">Certificates</a>
       <a href="#footer">Contacts</a>
     </div>
   );
